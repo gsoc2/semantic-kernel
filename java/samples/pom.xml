@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
@@ -17,7 +17,7 @@
     <properties>
         <com.uber.nullaway.version>0.10.10</com.uber.nullaway.version>
         <google.errorprone.core.version>2.19.1</google.errorprone.core.version>
-        <log4j2.version>2.20.0</log4j2.version>
+        <log4j2.version>2.22.1</log4j2.version>
         <maven.compiler-plugin.version>3.11.0</maven.compiler-plugin.version>
         <maven.compiler.release>17</maven.compiler.release>
         <maven.compiler.source>17</maven.compiler.source>
